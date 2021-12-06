@@ -2,4 +2,6 @@
 
 ## Editing the file
 
-Its a markdown file in this repository
+IBM Data Science Professional Certificate 
+
+Applied Data Science Capstone, final assignment
