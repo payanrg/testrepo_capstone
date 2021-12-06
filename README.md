@@ -1,9 +1,9 @@
 # Applied Data Science Capstone
 
-IBM Data Science Professional Certificate 
+## IBM Data Science Professional Certificate 
 
-Applied Data Science Capstone, final assignments
+Final assignments
 
-By Luis Payán
+By **Luis Payán**
 
 December 6, 2021
